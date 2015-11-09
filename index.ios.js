@@ -1,8 +1,10 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * @file Sample React Native App For Baidu Voice IOS Online SDK
+ * @author cxtom(cxtom2010@gmail.com)
  */
 'use strict';
+
+/* eslint-disable no-console */
 
 var React = require('react-native');
 var {
