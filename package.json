@@ -1,0 +1,27 @@
+{
+  "name": "react-native-baidu-voice",
+  "version": "0.0.1-rc",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.14.1"
+  },
+  "description": "react native baidu voice sdk for ios",
+  "main": "index.ios.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxtom/react-native-baidu-voice.git"
+  },
+  "keywords": [
+    "react narive",
+    "baidu voice"
+  ],
+  "author": "cxtom <cxtom2010@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxtom/react-native-baidu-voice/issues"
+  },
+  "homepage": "https://github.com/cxtom/react-native-baidu-voice#readme"
+}
